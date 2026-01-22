@@ -1,0 +1,7 @@
+Program,Worker,Avg_CPU,Max_Mem_KB,Exec_Time_sec
+A_cpu,cpu,60.51,1536,4.41
+A_mem,mem,61.49,16896,12.20
+A_io,io,1.48,1536,4.28
+B_cpu,cpu,183.10,1792,4.42
+B_mem,mem,184.05,34432,14.53
+B_io,io,5.59,1920,1.93
